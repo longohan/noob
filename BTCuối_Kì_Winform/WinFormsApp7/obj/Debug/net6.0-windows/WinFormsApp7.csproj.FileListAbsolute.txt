@@ -1,0 +1,60 @@
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.login.resources
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinForms.BA630A35.Up2Date
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dgv.resources
+C:\Users\acer\Downloads\New folder\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.frmDetail.resources
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dgv.resources
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.frmDetail.resources
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.login.resources
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinForms.BA630A35.Up2Date
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\WinFormsApp7\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.TrinhNhac.resources
